@@ -1,4 +1,4 @@
-<img width="260" height="194" alt="image" src="https://github.com/user-attachments/assets/dcb6598c-7f8b-41af-bd6b-af384a5d3f04" />
+<img width="660" height="594" alt="image" src="https://github.com/user-attachments/assets/dcb6598c-7f8b-41af-bd6b-af384a5d3f04" />
 
 
 # **📊 Comprehensive Enterprise Insights Platform**
